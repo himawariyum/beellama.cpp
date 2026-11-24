@@ -1,3 +1,8 @@
+# Windows ROCM 103X (6700xt) build script.
+1. Run build.bat
+2. Wait.
+3. Binaries are built into dist folder.
+
 # Anbeeld's BeeLlama.cpp
 
 ![BeeLlama.cpp logo](beellama.jpg)
